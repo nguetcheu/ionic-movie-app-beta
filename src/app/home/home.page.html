@@ -1,0 +1,21 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="dark"></ion-toolbar>
+  <ion-toolbar color="dark">
+    <ion-title>NKD MOVIE APP BETA</ion-title>
+    <ion-searchbar [(ngModel)]="searchTitle"></ion-searchbar>
+    <ion-buttons slot="end">
+      <ion-button color="light" (click)="searchFilm()">
+        <ion-icon name="search-sharp"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <div class="img_box">
+    <img [src]=movieData.imageUrl>
+  </div>
+  <h1>{{ movieData.titre }}</h1>
+  <p> {{ movieData.Duree }}</p>
+  <p>{{ movieData.description }}</p>
+</ion-content>

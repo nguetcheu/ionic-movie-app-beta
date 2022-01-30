@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57fecd10-4d0f-4c34-a597-558470f5df78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ionic.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/ionic.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home/home.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home/home.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home/home.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home/home.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home/home.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/home/home.page.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="24IQClTthG8Y3r3eoYiFGH5q0VJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\NKD\Documents\Programmation\ionic\movieApp\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (app)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (app)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57fecd10-4d0f-4c34-a597-558470f5df78" name="Default Changelist" comment="" />
+      <created>1643315495851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643315495851</updated>
+      <workItem from="1643315499690" duration="404000" />
+      <workItem from="1643322139164" duration="5791000" />
+      <workItem from="1643367843569" duration="810000" />
+      <workItem from="1643581021711" duration="538000" />
+      <workItem from="1643581720088" duration="547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="944" y="352" key="#ESLint" timestamp="1643326085562">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="944" y="352" key="#ESLint/0.0.1440.900@0.0.1440.900" timestamp="1643326085562" />
+    <state width="698" height="228" key="GridCell.Tab.0.bottom" timestamp="1643581571959">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1345" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1643368138632" />
+    <state width="698" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1643581571959" />
+    <state width="698" height="228" key="GridCell.Tab.0.center" timestamp="1643581571959">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1345" height="185" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1643368138632" />
+    <state width="698" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1643581571959" />
+    <state width="698" height="228" key="GridCell.Tab.0.left" timestamp="1643581571959">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1345" height="185" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1643368138632" />
+    <state width="698" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1643581571959" />
+    <state width="698" height="228" key="GridCell.Tab.0.right" timestamp="1643581571959">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1345" height="185" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1643368138632" />
+    <state width="698" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1643581571959" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1643325718699">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1643325718699" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1643368086625">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1643368086625" />
+  </component>
+</project>
